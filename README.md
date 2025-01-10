@@ -5,14 +5,15 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Morning-Star213&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Full-Stack && Blockchain & AI Trading Engineer
+##👩‍💻 Full-Stack && Blockchain && AI Trading Engineer 👩‍💻
 
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm , Technology.<br>
 8+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
 I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
-Are you looking for an talented and superior senior Engineer ?<br>
-Please contact me, I will do for you as soon as possible and my best to create a "The Best Quality", "Real-time Communication" project for my customers.
+Looking for an talented and superior senior Engineer ?<br>
+In front of you, I am in.
+📞📲 , I will do for you as soon as possible and my best to create a "The Best Quality", "Real-time Communication"  for My Customers.
 </p>
 
 ## SKILLS AND TOOLS
